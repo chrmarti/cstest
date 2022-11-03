@@ -1,4 +1,4 @@
 {
 	"dockerFile": "Dockerfile",
-	"postCreateCommand": "echo HERE"
+	"postCreateCommand": "date >>postCreateCommand.txt"
 }
